@@ -1,0 +1,142 @@
+
+.header
+{
+    width: 100%;
+    height: 600px;
+    background:#f0f2f5 ;
+
+}
+body{
+    margin-left: 5px;
+    
+}
+.img
+{
+    width: 240px;
+    height: 84px;
+    margin-left: 600px;
+    margin-top: 10px;
+
+}
+.form
+{
+    width: 400px;
+    height: 400px;
+    background: white;;
+    margin-left: 520px;
+    border-radius: 10px;
+    
+}
+#heading
+{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 110px;
+    padding-top: 30px;
+}
+.mail
+{
+    margin-left: 33px;
+    height: 40px;
+    width: 327px;
+    font-size: 18px;
+    border-radius: 5px;
+    border-color:white;
+    border-width: 1px;
+    font-size: 17px;
+    background-color: #fff;
+}
+.password1
+{
+    margin-left: 33px;
+    height: 40px;
+    width: 327px;
+    font-size: 18px;
+    border-radius: 5px;
+    border-color:white;
+    border-width: 1px;
+    margin-top: 20px;
+    font-size: 17px;
+}
+.login
+{
+    margin-left: 33px;
+    height: 40px;
+    width: 327px;
+    font-size: 18px; 
+    margin-top: 20px;
+    border-width: 1px;
+    background-color: #1877f2;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    border-color: #fff;
+    
+}
+.forg
+{
+    margin-left: 135px;
+    margin-top: 20px;
+    color:#1877f2;
+    cursor: pointer;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500; 
+   text-decoration: none;
+    
+}
+.forg1
+{
+    text-decoration: none;
+}
+.line
+{
+    
+    margin-top: 25px;
+    width: 350px;
+    
+ 
+}
+
+.create
+{
+margin-top: 10pxpx;
+margin-left: 115px;
+height: 50px;
+width: 170px;
+background-color:#42b72a;
+border-radius: 5px;
+border-width: 1px;
+border-color: #fff;
+transition: 200ms cubic-bezier(.08,.52,.52,1) background-color, 200ms cubic-bezier(.08,.52,.52,1) box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform;
+ cursor: pointer; 
+}
+.create
+{
+    color: #fff;
+    font-family: inherit Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.langu
+{
+    margin-left: 450px;
+    margin-top: 150px;
+    color: #737373;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;;
+}
+.bar
+{
+    width: 745px;
+    margin-left: 350px;
+}
+.extra
+{
+color: #737373;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+margin-left: 350px;
+
+}
